@@ -13,6 +13,8 @@ The database is composed of information about past matches, player and team perf
 The proposed system uses machine learning techniques that uses data to generate predictions for future matches. The system will use supervised learning algorithms to identify patterns in the data and make accurate predictions. Additionally, unsupervised learning algorithms can be used to detect patterns in the data that can be used to predict labels.
 
 HOW I BUILT IT
+
+
 Data preprocessing: Start by cleaning and preparing your data. This might include removing duplicates, handling missing values, and converting categorical variables into numerical values if needed.
 
 Feature engineering: Create new features or transform existing ones that could help improve the predictive power of your model. This could include things like the teams' past performance, the number of goals scored or conceded, and the player stats.
